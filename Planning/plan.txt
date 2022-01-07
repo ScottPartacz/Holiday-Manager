@@ -1,0 +1,47 @@
+
+load the holiday.json file into the holiday list container
+
+
+main menu:
+
+    1. add holiday
+
+    2. remove holiday
+
+    3. save holiday
+    
+    4. view holiday
+
+    5. exit
+
+
+add holiday:
+
+    1. ask for holiday name and date (check for errors)
+    2. input the holiday into the holiday list container
+    3. go back to menu
+
+remove holiday:
+
+    1. ask for holiday name (check for errors)
+    2. remove the holiday from the holiday list container
+    3. go back to menu
+
+save holiday:
+
+    1. save the current holiday list container to a holidays.json file
+    2. go back to menu
+
+view holiday:
+
+    1. ask the year (check for errors)
+    2. ask for the week (check for errors)
+    3. if the week is blank its the current week so we will also grab the weather data for the week
+    4. output the weeks holidays and the weather data if its the current year
+    5. go back to menu
+
+exit:
+
+    1. ask the user if they would like to exit the program (y/n)
+    2. check for unsaved data (output that the data will be lost if not saved)
+    2. if y exit the program if n go back to the menu
