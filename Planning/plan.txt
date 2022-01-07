@@ -1,6 +1,6 @@
+startup:
 
-load the holiday.json file into the holiday list container
-
+    load the holiday.json file into the holiday list container
 
 main menu:
 
