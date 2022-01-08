@@ -1,7 +1,13 @@
 # Holiday-Manager
 
-Data folder- holds the starter holiday file and it is where all of the saved files will go.
+# Data folder 
 
-Planning folder- has the pesudo code for the different functions and a word-based flow chart of the menu system
+Holds the starter holiday file and it is where all of the saved files will go.
 
-To run the program smiply run main.py
+# Planning folder 
+
+Has the pesudo code for the different functions and a word-based flow chart of the menu system
+
+# Run 
+
+run main.py
