@@ -1,0 +1,4329 @@
+{
+    "holidays": [
+        {
+            "name": "Margaret Thatcher Day",
+            "date": "2021-01-10",
+            "tag": "None"
+        },
+        {
+            "name": "World Sketchnote Day",
+            "date": "2021-01-11",
+            "tag": "None"
+        },
+        {
+            "name": "Zanzibar Revolution Day",
+            "date": "2021-01-12",
+            "tag": "None"
+        },
+        {
+            "name": "National Rubber Ducky Day",
+            "date": "2021-01-13",
+            "tag": "None"
+        },
+        {
+            "name": "Tamil Thai Pongdal Day",
+            "date": "2021-01-14",
+            "tag": "None"
+        },
+        {
+            "name": "National Bagel Day",
+            "date": "2021-01-15",
+            "tag": "None"
+        },
+        {
+            "name": "Signing of the Peace Accords",
+            "date": "2021-01-16",
+            "tag": "None"
+        },
+        {
+            "name": "New Year's Day",
+            "date": "2020-01-01",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Epiphany",
+            "date": "2020-01-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Asarah B'Tevet",
+            "date": "2020-01-07",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Orthodox Christmas Day",
+            "date": "2020-01-07",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2020-01-07",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Stephen Foster Memorial Day",
+            "date": "2020-01-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox New Year",
+            "date": "2020-01-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "World Religion Day",
+            "date": "2020-01-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Martin Luther King Jr. Day",
+            "date": "2020-01-20",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Chinese New Year",
+            "date": "2020-01-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Customs Day",
+            "date": "2020-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Leprosy Day",
+            "date": "2020-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Freedom Day",
+            "date": "2020-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Black History Month",
+            "date": "2020-02-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "World Wetlands Day",
+            "date": "2020-02-02",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Groundhog Day",
+            "date": "2020-02-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cancer Day",
+            "date": "2020-02-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tu Bishvat/Tu B'Shevat",
+            "date": "2020-02-10",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Day of the Sick",
+            "date": "2020-02-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Valentine's Day",
+            "date": "2020-02-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Presidents' Day",
+            "date": "2020-02-17",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Maha Shivaratri",
+            "date": "2020-02-21",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Shrove Tuesday/Mardi Gras",
+            "date": "2020-02-25",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Ash Wednesday",
+            "date": "2020-02-26",
+            "tag": "Christian"
+        },
+        {
+            "name": "Leap Day",
+            "date": "2020-02-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Self-Injury Awareness Day",
+            "date": "2020-03-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. David's Day",
+            "date": "2020-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "First Day of Women's History Month",
+            "date": "2020-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Irish American Heritage Month",
+            "date": "2020-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Super Tuesday",
+            "date": "2020-03-03",
+            "tag": "Observance"
+        },
+        {
+            "name": "Holi",
+            "date": "2020-03-09",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Purim",
+            "date": "2020-03-10",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Kidney Day",
+            "date": "2020-03-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2020-03-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. Patrick's Day",
+            "date": "2020-03-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Isra and Mi'raj",
+            "date": "2020-03-22",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Earth Hour",
+            "date": "2020-03-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Vietnam War Veterans Day",
+            "date": "2020-03-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Doctors' Day",
+            "date": "2020-03-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "April Fool's Day",
+            "date": "2020-04-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Palm Sunday",
+            "date": "2020-04-05",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover Eve",
+            "date": "2020-04-08",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Maundy Thursday",
+            "date": "2020-04-09",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover (first day)",
+            "date": "2020-04-09",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Good Friday",
+            "date": "2020-04-10",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Holy Saturday",
+            "date": "2020-04-11",
+            "tag": "Christian"
+        },
+        {
+            "name": "Easter Sunday",
+            "date": "2020-04-12",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Easter Monday",
+            "date": "2020-04-13",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Thomas Jefferson's Birthday",
+            "date": "2020-04-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Passover",
+            "date": "2020-04-16",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Orthodox Good Friday",
+            "date": "2020-04-17",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Holy Saturday",
+            "date": "2020-04-18",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Day for Monuments and Sites",
+            "date": "2020-04-18",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Orthodox Easter",
+            "date": "2020-04-19",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter Monday",
+            "date": "2020-04-20",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Yom HaShoah",
+            "date": "2020-04-21",
+            "tag": "Jewish commemoration"
+        },
+        {
+            "name": "Take our Daughters and Sons to Work Day",
+            "date": "2020-04-23",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ramadan Starts",
+            "date": "2020-04-24",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Yom Ha'atzmaut",
+            "date": "2020-04-29",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Law Day",
+            "date": "2020-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loyalty Day",
+            "date": "2020-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Asian Pacific American Heritage Month",
+            "date": "2020-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Jewish American Heritage Month",
+            "date": "2020-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Cinco de Mayo",
+            "date": "2020-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Day of Prayer",
+            "date": "2020-05-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Ovarian Cancer Day",
+            "date": "2020-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Red Cross and Red Crescent Day",
+            "date": "2020-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Victory in Europe Day",
+            "date": "2020-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2020-05-10",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lag BaOmer",
+            "date": "2020-05-12",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Nurses Day",
+            "date": "2020-05-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Peace Officers Memorial Day",
+            "date": "2020-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Defense Transportation Day",
+            "date": "2020-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Armed Forces Day",
+            "date": "2020-05-16",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lailat al-Qadr",
+            "date": "2020-05-19",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+            "date": "2020-05-20",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Ascension Day",
+            "date": "2020-05-21",
+            "tag": "Christian"
+        },
+        {
+            "name": "National Maritime Day",
+            "date": "2020-05-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "Eid al-Fitr",
+            "date": "2020-05-24",
+            "tag": "Muslim"
+        },
+        {
+            "name": "African Liberation Day",
+            "date": "2020-05-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2020-05-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Shavuot",
+            "date": "2020-05-29",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Pentecost",
+            "date": "2020-05-31",
+            "tag": "Christian"
+        },
+        {
+            "name": "Whit Monday",
+            "date": "2020-06-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "First Day of Pride Month",
+            "date": "2020-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Caribbean-American Heritage Month",
+            "date": "2020-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "D-Day",
+            "date": "2020-06-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Trinity Sunday",
+            "date": "2020-06-07",
+            "tag": "Christian"
+        },
+        {
+            "name": "Corpus Christi",
+            "date": "2020-06-11",
+            "tag": "Christian"
+        },
+        {
+            "name": "Loving Day",
+            "date": "2020-06-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Flag Day",
+            "date": "2020-06-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Juneteenth",
+            "date": "2020-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Juneteenth Independence Day",
+            "date": "2020-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "American Eagle Day",
+            "date": "2020-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2020-06-21",
+            "tag": "Observance"
+        },
+        {
+            "name": "Day off for Independence Day",
+            "date": "2020-07-03",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2020-07-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Tax Day",
+            "date": "2020-07-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Parents' Day",
+            "date": "2020-07-26",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Korean War Veterans Armistice Day",
+            "date": "2020-07-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Tisha B'Av",
+            "date": "2020-07-30",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Eid al-Adha",
+            "date": "2020-07-31",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Raksha Bandhan",
+            "date": "2020-08-03",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Purple Heart Day",
+            "date": "2020-08-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Janmashtami",
+            "date": "2020-08-10",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Assumption of Mary",
+            "date": "2020-08-15",
+            "tag": "Christian"
+        },
+        {
+            "name": "National Aviation Day",
+            "date": "2020-08-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Muharram",
+            "date": "2020-08-20",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Ganesh Chaturthi",
+            "date": "2020-08-21",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Ashura",
+            "date": "2020-08-29",
+            "tag": "Muslim"
+        },
+        {
+            "name": "International Overdose Awareness Day",
+            "date": "2020-08-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Sexual Health Day",
+            "date": "2020-09-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2020-09-07",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Suicide Prevention Day",
+            "date": "2020-09-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2020-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2020-09-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Carl Garner Federal Lands Cleanup Day",
+            "date": "2020-09-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Grandparents Day",
+            "date": "2020-09-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Still's Disease Awareness Day",
+            "date": "2020-09-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day",
+            "date": "2020-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "National POW/MIA Recognition Day",
+            "date": "2020-09-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "Rosh Hashana",
+            "date": "2020-09-19",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Celebrate Bisexuality Day",
+            "date": "2020-09-23",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Public Lands Day",
+            "date": "2020-09-26",
+            "tag": "Observance"
+        },
+        {
+            "name": "Gold Star Mother's Day",
+            "date": "2020-09-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Yom Kippur",
+            "date": "2020-09-28",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Rabies Day",
+            "date": "2020-09-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Heart Day",
+            "date": "2020-09-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Vegetarian Day",
+            "date": "2020-10-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Sukkot",
+            "date": "2020-10-03",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Feast of St Francis of Assisi",
+            "date": "2020-10-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "Child Health Day",
+            "date": "2020-10-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cerebral Palsy Day",
+            "date": "2020-10-06",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Sight Day",
+            "date": "2020-10-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Last Day of Sukkot",
+            "date": "2020-10-09",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Shmini Atzeret",
+            "date": "2020-10-10",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Simchat Torah",
+            "date": "2020-10-11",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2020-10-12",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "White Cane Safety Day",
+            "date": "2020-10-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Navratri",
+            "date": "2020-10-17",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Dussehra",
+            "date": "2020-10-25",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "The Prophet's Birthday",
+            "date": "2020-10-29",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Stroke Day",
+            "date": "2020-10-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Halloween",
+            "date": "2020-10-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "All Saints' Day",
+            "date": "2020-11-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Vegan Day",
+            "date": "2020-11-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Native American Heritage Month",
+            "date": "2020-11-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "All Souls' Day",
+            "date": "2020-11-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Election Day (General Election)",
+            "date": "2020-11-03",
+            "tag": "Observance"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2020-11-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Pneumonia Day",
+            "date": "2020-11-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2020-11-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2020-11-14",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Prematurity Day",
+            "date": "2020-11-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "International Men's Day",
+            "date": "2020-11-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2020-11-26",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2020-11-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Native American Heritage Day",
+            "date": "2020-11-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Sunday of Advent",
+            "date": "2020-11-29",
+            "tag": "Christian"
+        },
+        {
+            "name": "Cyber Monday",
+            "date": "2020-11-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2020-12-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of the Immaculate Conception",
+            "date": "2020-12-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Chanukah/Hanukkah (first day)",
+            "date": "2020-12-11",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Feast of Our Lady of Guadalupe",
+            "date": "2020-12-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Bill of Rights Day",
+            "date": "2020-12-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pan American Aviation Day",
+            "date": "2020-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Wright Brothers Day",
+            "date": "2020-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Chanukah",
+            "date": "2020-12-18",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2020-12-24",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2020-12-24",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Asarah B'Tevet",
+            "date": "2020-12-25",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2020-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2020-12-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2020-12-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "New Year's Day",
+            "date": "2021-01-01",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Epiphany",
+            "date": "2021-01-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Orthodox Christmas Day",
+            "date": "2021-01-07",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2021-01-07",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Stephen Foster Memorial Day",
+            "date": "2021-01-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox New Year",
+            "date": "2021-01-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "World Religion Day",
+            "date": "2021-01-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Martin Luther King Jr. Day",
+            "date": "2021-01-18",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Inauguration Day",
+            "date": "2021-01-20",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "International Customs Day",
+            "date": "2021-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tu Bishvat/Tu B'Shevat",
+            "date": "2021-01-28",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Leprosy Day",
+            "date": "2021-01-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Freedom Day",
+            "date": "2021-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Black History Month",
+            "date": "2021-02-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "World Wetlands Day",
+            "date": "2021-02-02",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Groundhog Day",
+            "date": "2021-02-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cancer Day",
+            "date": "2021-02-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Day of the Sick",
+            "date": "2021-02-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Chinese New Year",
+            "date": "2021-02-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Valentine's Day",
+            "date": "2021-02-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Presidents' Day",
+            "date": "2021-02-15",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Shrove Tuesday/Mardi Gras",
+            "date": "2021-02-16",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Ash Wednesday",
+            "date": "2021-02-17",
+            "tag": "Christian"
+        },
+        {
+            "name": "Purim",
+            "date": "2021-02-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Self-Injury Awareness Day",
+            "date": "2021-03-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. David's Day",
+            "date": "2021-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "First Day of Women's History Month",
+            "date": "2021-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Irish American Heritage Month",
+            "date": "2021-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Maha Shivaratri",
+            "date": "2021-03-11",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Isra and Mi'raj",
+            "date": "2021-03-11",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Kidney Day",
+            "date": "2021-03-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. Patrick's Day",
+            "date": "2021-03-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Passover Eve",
+            "date": "2021-03-27",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Earth Hour",
+            "date": "2021-03-27",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Palm Sunday",
+            "date": "2021-03-28",
+            "tag": "Christian"
+        },
+        {
+            "name": "Holi",
+            "date": "2021-03-28",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Passover (first day)",
+            "date": "2021-03-28",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "National Vietnam War Veterans Day",
+            "date": "2021-03-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Doctors' Day",
+            "date": "2021-03-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "Maundy Thursday",
+            "date": "2021-04-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "April Fool's Day",
+            "date": "2021-04-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Good Friday",
+            "date": "2021-04-02",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Holy Saturday",
+            "date": "2021-04-03",
+            "tag": "Christian"
+        },
+        {
+            "name": "Last Day of Passover",
+            "date": "2021-04-04",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Easter Sunday",
+            "date": "2021-04-04",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Easter Monday",
+            "date": "2021-04-05",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Yom HaShoah",
+            "date": "2021-04-08",
+            "tag": "Jewish commemoration"
+        },
+        {
+            "name": "Ramadan Starts",
+            "date": "2021-04-13",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Thomas Jefferson's Birthday",
+            "date": "2021-04-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Yom Ha'atzmaut",
+            "date": "2021-04-15",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Day for Monuments and Sites",
+            "date": "2021-04-18",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Take our Daughters and Sons to Work Day",
+            "date": "2021-04-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lag BaOmer",
+            "date": "2021-04-30",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Orthodox Good Friday",
+            "date": "2021-04-30",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Holy Saturday",
+            "date": "2021-05-01",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Law Day",
+            "date": "2021-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loyalty Day",
+            "date": "2021-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Asian Pacific American Heritage Month",
+            "date": "2021-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Jewish American Heritage Month",
+            "date": "2021-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Orthodox Easter",
+            "date": "2021-05-02",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter Monday",
+            "date": "2021-05-03",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Cinco de Mayo",
+            "date": "2021-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Day of Prayer",
+            "date": "2021-05-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lailat al-Qadr",
+            "date": "2021-05-08",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Ovarian Cancer Day",
+            "date": "2021-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Red Cross and Red Crescent Day",
+            "date": "2021-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Victory in Europe Day",
+            "date": "2021-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2021-05-09",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Nurses Day",
+            "date": "2021-05-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Ascension Day",
+            "date": "2021-05-13",
+            "tag": "Christian"
+        },
+        {
+            "name": "Eid al-Fitr",
+            "date": "2021-05-13",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Peace Officers Memorial Day",
+            "date": "2021-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Armed Forces Day",
+            "date": "2021-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Shavuot",
+            "date": "2021-05-17",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Tax Day",
+            "date": "2021-05-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+            "date": "2021-05-20",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Defense Transportation Day",
+            "date": "2021-05-21",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Maritime Day",
+            "date": "2021-05-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pentecost",
+            "date": "2021-05-23",
+            "tag": "Christian"
+        },
+        {
+            "name": "Whit Monday",
+            "date": "2021-05-24",
+            "tag": "Christian"
+        },
+        {
+            "name": "African Liberation Day",
+            "date": "2021-05-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Trinity Sunday",
+            "date": "2021-05-30",
+            "tag": "Christian"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2021-05-31",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "First Day of Pride Month",
+            "date": "2021-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Caribbean-American Heritage Month",
+            "date": "2021-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Corpus Christi",
+            "date": "2021-06-03",
+            "tag": "Christian"
+        },
+        {
+            "name": "D-Day",
+            "date": "2021-06-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loving Day",
+            "date": "2021-06-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Flag Day",
+            "date": "2021-06-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Day off for Juneteenth",
+            "date": "2021-06-18",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Juneteenth",
+            "date": "2021-06-19",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2021-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "American Eagle Day",
+            "date": "2021-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2021-07-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Day off for Independence Day",
+            "date": "2021-07-05",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Tisha B'Av",
+            "date": "2021-07-18",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Eid al-Adha",
+            "date": "2021-07-20",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Parents' Day",
+            "date": "2021-07-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Korean War Veterans Armistice Day",
+            "date": "2021-07-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Purple Heart Day",
+            "date": "2021-08-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Muharram",
+            "date": "2021-08-10",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2021-08-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Assumption of Mary",
+            "date": "2021-08-15",
+            "tag": "Christian"
+        },
+        {
+            "name": "Ashura",
+            "date": "2021-08-19",
+            "tag": "Muslim"
+        },
+        {
+            "name": "National Aviation Day",
+            "date": "2021-08-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Raksha Bandhan",
+            "date": "2021-08-21",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "International Overdose Awareness Day",
+            "date": "2021-08-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Sexual Health Day",
+            "date": "2021-09-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2021-09-06",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Rosh Hashana",
+            "date": "2021-09-07",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Ganesh Chaturthi",
+            "date": "2021-09-10",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Suicide Prevention Day",
+            "date": "2021-09-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2021-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "Carl Garner Federal Lands Cleanup Day",
+            "date": "2021-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Grandparents Day",
+            "date": "2021-09-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2021-09-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Yom Kippur",
+            "date": "2021-09-16",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Still's Disease Awareness Day",
+            "date": "2021-09-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day",
+            "date": "2021-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "National POW/MIA Recognition Day",
+            "date": "2021-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Sukkot",
+            "date": "2021-09-21",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Celebrate Bisexuality Day",
+            "date": "2021-09-23",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Public Lands Day",
+            "date": "2021-09-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "Gold Star Mother's Day",
+            "date": "2021-09-26",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Sukkot",
+            "date": "2021-09-27",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Shmini Atzeret",
+            "date": "2021-09-28",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Rabies Day",
+            "date": "2021-09-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Simchat Torah",
+            "date": "2021-09-29",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Heart Day",
+            "date": "2021-09-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Vegetarian Day",
+            "date": "2021-10-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Feast of St Francis of Assisi",
+            "date": "2021-10-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "Child Health Day",
+            "date": "2021-10-04",
+            "tag": "Observance"
+        },
+        {
+            "name": "Navratri",
+            "date": "2021-10-06",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Cerebral Palsy Day",
+            "date": "2021-10-06",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2021-10-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Indigenous People's Day",
+            "date": "2021-10-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "Dussehra",
+            "date": "2021-10-14",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Sight Day",
+            "date": "2021-10-14",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "White Cane Safety Day",
+            "date": "2021-10-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "The Prophet's Birthday",
+            "date": "2021-10-19",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Stroke Day",
+            "date": "2021-10-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Halloween",
+            "date": "2021-10-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "All Saints' Day",
+            "date": "2021-11-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Vegan Day",
+            "date": "2021-11-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Native American Heritage Month",
+            "date": "2021-11-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "All Souls' Day",
+            "date": "2021-11-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Election Day",
+            "date": "2021-11-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2021-11-03",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2021-11-04",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2021-11-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Pneumonia Day",
+            "date": "2021-11-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Prematurity Day",
+            "date": "2021-11-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "International Men's Day",
+            "date": "2021-11-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2021-11-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2021-11-26",
+            "tag": "Observance"
+        },
+        {
+            "name": "Native American Heritage Day",
+            "date": "2021-11-26",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Sunday of Advent",
+            "date": "2021-11-28",
+            "tag": "Christian"
+        },
+        {
+            "name": "Chanukah/Hanukkah (first day)",
+            "date": "2021-11-29",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Cyber Monday",
+            "date": "2021-11-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Chanukah",
+            "date": "2021-12-06",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2021-12-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of the Immaculate Conception",
+            "date": "2021-12-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Feast of Our Lady of Guadalupe",
+            "date": "2021-12-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Asarah B'Tevet",
+            "date": "2021-12-14",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Bill of Rights Day",
+            "date": "2021-12-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pan American Aviation Day",
+            "date": "2021-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Wright Brothers Day",
+            "date": "2021-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Day off for Christmas Day",
+            "date": "2021-12-24",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Day off for Christmas Day",
+            "date": "2021-12-24",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2021-12-24",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2021-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2021-12-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2021-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Day off for New Year's Day",
+            "date": "2021-12-31",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2021-12-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "New Year's Day",
+            "date": "2022-01-01",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Epiphany",
+            "date": "2022-01-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Orthodox Christmas Day",
+            "date": "2022-01-07",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2022-01-07",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Stephen Foster Memorial Day",
+            "date": "2022-01-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox New Year",
+            "date": "2022-01-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "World Religion Day",
+            "date": "2022-01-16",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tu Bishvat/Tu B'Shevat",
+            "date": "2022-01-17",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Martin Luther King Jr. Day",
+            "date": "2022-01-17",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "International Customs Day",
+            "date": "2022-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Leprosy Day",
+            "date": "2022-01-30",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Freedom Day",
+            "date": "2022-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Chinese New Year",
+            "date": "2022-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Black History Month",
+            "date": "2022-02-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "World Wetlands Day",
+            "date": "2022-02-02",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Groundhog Day",
+            "date": "2022-02-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cancer Day",
+            "date": "2022-02-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Day of the Sick",
+            "date": "2022-02-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Valentine's Day",
+            "date": "2022-02-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Presidents' Day",
+            "date": "2022-02-21",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Maha Shivaratri",
+            "date": "2022-02-28",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Isra and Mi'raj",
+            "date": "2022-03-01",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Self-Injury Awareness Day",
+            "date": "2022-03-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Shrove Tuesday/Mardi Gras",
+            "date": "2022-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "St. David's Day",
+            "date": "2022-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "First Day of Women's History Month",
+            "date": "2022-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Irish American Heritage Month",
+            "date": "2022-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Ash Wednesday",
+            "date": "2022-03-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Kidney Day",
+            "date": "2022-03-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Purim",
+            "date": "2022-03-17",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "St. Patrick's Day",
+            "date": "2022-03-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Holi",
+            "date": "2022-03-18",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Earth Hour",
+            "date": "2022-03-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Vietnam War Veterans Day",
+            "date": "2022-03-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Doctors' Day",
+            "date": "2022-03-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "April Fool's Day",
+            "date": "2022-04-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Ramadan Starts",
+            "date": "2022-04-03",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Palm Sunday",
+            "date": "2022-04-10",
+            "tag": "Christian"
+        },
+        {
+            "name": "Thomas Jefferson's Birthday",
+            "date": "2022-04-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Maundy Thursday",
+            "date": "2022-04-14",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover Eve",
+            "date": "2022-04-15",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Good Friday",
+            "date": "2022-04-15",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Holy Saturday",
+            "date": "2022-04-16",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover (first day)",
+            "date": "2022-04-16",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Easter Sunday",
+            "date": "2022-04-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "International Day for Monuments and Sites",
+            "date": "2022-04-18",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Easter Monday",
+            "date": "2022-04-18",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Tax Day",
+            "date": "2022-04-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox Good Friday",
+            "date": "2022-04-22",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Last Day of Passover",
+            "date": "2022-04-23",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Orthodox Holy Saturday",
+            "date": "2022-04-23",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter",
+            "date": "2022-04-24",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter Monday",
+            "date": "2022-04-25",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Yom HaShoah",
+            "date": "2022-04-27",
+            "tag": "Jewish commemoration"
+        },
+        {
+            "name": "Lailat al-Qadr",
+            "date": "2022-04-28",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Take our Daughters and Sons to Work Day",
+            "date": "2022-04-28",
+            "tag": "Observance"
+        },
+        {
+            "name": "Law Day",
+            "date": "2022-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loyalty Day",
+            "date": "2022-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Asian Pacific American Heritage Month",
+            "date": "2022-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Jewish American Heritage Month",
+            "date": "2022-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Eid al-Fitr (Tentative Date)",
+            "date": "2022-05-03",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Yom Ha'atzmaut",
+            "date": "2022-05-05",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Cinco de Mayo",
+            "date": "2022-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Day of Prayer",
+            "date": "2022-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Ovarian Cancer Day",
+            "date": "2022-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Red Cross and Red Crescent Day",
+            "date": "2022-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2022-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Victory in Europe Day",
+            "date": "2022-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Nurses Day",
+            "date": "2022-05-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2022-05-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Peace Officers Memorial Day",
+            "date": "2022-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lag BaOmer",
+            "date": "2022-05-19",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+            "date": "2022-05-20",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Defense Transportation Day",
+            "date": "2022-05-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Armed Forces Day",
+            "date": "2022-05-21",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Maritime Day",
+            "date": "2022-05-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "African Liberation Day",
+            "date": "2022-05-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Ascension Day",
+            "date": "2022-05-26",
+            "tag": "Christian"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2022-05-30",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "First Day of Pride Month",
+            "date": "2022-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Caribbean-American Heritage Month",
+            "date": "2022-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Pentecost",
+            "date": "2022-06-05",
+            "tag": "Christian"
+        },
+        {
+            "name": "Shavuot",
+            "date": "2022-06-05",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Whit Monday",
+            "date": "2022-06-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "D-Day",
+            "date": "2022-06-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Trinity Sunday",
+            "date": "2022-06-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Loving Day",
+            "date": "2022-06-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Flag Day",
+            "date": "2022-06-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Corpus Christi",
+            "date": "2022-06-16",
+            "tag": "Christian"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2022-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Juneteenth",
+            "date": "2022-06-19",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Juneteenth Independence Day",
+            "date": "2022-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Day off for Juneteenth",
+            "date": "2022-06-20",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "American Eagle Day",
+            "date": "2022-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2022-07-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Eid al-Adha (Tentative Date)",
+            "date": "2022-07-10",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Parents' Day",
+            "date": "2022-07-24",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Korean War Veterans Armistice Day",
+            "date": "2022-07-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Muharram",
+            "date": "2022-07-30",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Tisha B'Av",
+            "date": "2022-08-07",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Purple Heart Day",
+            "date": "2022-08-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ashura (Tentative Date)",
+            "date": "2022-08-08",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Raksha Bandhan",
+            "date": "2022-08-11",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Assumption of Mary",
+            "date": "2022-08-15",
+            "tag": "Christian"
+        },
+        {
+            "name": "National Aviation Day",
+            "date": "2022-08-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ganesh Chaturthi",
+            "date": "2022-08-30",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "International Overdose Awareness Day",
+            "date": "2022-08-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Sexual Health Day",
+            "date": "2022-09-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2022-09-05",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Suicide Prevention Day",
+            "date": "2022-09-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Carl Garner Federal Lands Cleanup Day",
+            "date": "2022-09-10",
+            "tag": "Observance"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2022-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Grandparents Day",
+            "date": "2022-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2022-09-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day observed",
+            "date": "2022-09-16",
+            "tag": "Observance"
+        },
+        {
+            "name": "National POW/MIA Recognition Day",
+            "date": "2022-09-16",
+            "tag": "Observance"
+        },
+        {
+            "name": "Still's Disease Awareness Day",
+            "date": "2022-09-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day",
+            "date": "2022-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Celebrate Bisexuality Day",
+            "date": "2022-09-23",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Public Lands Day",
+            "date": "2022-09-24",
+            "tag": "Observance"
+        },
+        {
+            "name": "Gold Star Mother's Day",
+            "date": "2022-09-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "Navratri",
+            "date": "2022-09-26",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Rosh Hashana",
+            "date": "2022-09-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Rabies Day",
+            "date": "2022-09-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Heart Day",
+            "date": "2022-09-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Vegetarian Day",
+            "date": "2022-10-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Child Health Day",
+            "date": "2022-10-03",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of St Francis of Assisi",
+            "date": "2022-10-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "Dussehra",
+            "date": "2022-10-04",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Yom Kippur",
+            "date": "2022-10-05",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Cerebral Palsy Day",
+            "date": "2022-10-06",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "The Prophet's Birthday",
+            "date": "2022-10-08",
+            "tag": "Muslim"
+        },
+        {
+            "name": "First Day of Sukkot",
+            "date": "2022-10-10",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2022-10-10",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Sight Day",
+            "date": "2022-10-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "White Cane Safety Day",
+            "date": "2022-10-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Sukkot",
+            "date": "2022-10-16",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Shmini Atzeret",
+            "date": "2022-10-17",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Simchat Torah",
+            "date": "2022-10-18",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2022-10-24",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Stroke Day",
+            "date": "2022-10-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Halloween",
+            "date": "2022-10-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "All Saints' Day",
+            "date": "2022-11-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Vegan Day",
+            "date": "2022-11-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Native American Heritage Month",
+            "date": "2022-11-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "All Souls' Day",
+            "date": "2022-11-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Election Day",
+            "date": "2022-11-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2022-11-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Pneumonia Day",
+            "date": "2022-11-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Prematurity Day",
+            "date": "2022-11-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "International Men's Day",
+            "date": "2022-11-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2022-11-24",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2022-11-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "Native American Heritage Day",
+            "date": "2022-11-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Sunday of Advent",
+            "date": "2022-11-27",
+            "tag": "Christian"
+        },
+        {
+            "name": "Cyber Monday",
+            "date": "2022-11-28",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2022-12-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of the Immaculate Conception",
+            "date": "2022-12-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Feast of Our Lady of Guadalupe",
+            "date": "2022-12-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Bill of Rights Day",
+            "date": "2022-12-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pan American Aviation Day",
+            "date": "2022-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Wright Brothers Day",
+            "date": "2022-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Chanukah/Hanukkah (first day)",
+            "date": "2022-12-19",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2022-12-24",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2022-12-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2022-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Last Day of Chanukah",
+            "date": "2022-12-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Day off for Christmas Day",
+            "date": "2022-12-26",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Day off for Christmas Day",
+            "date": "2022-12-26",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2022-12-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "New Year's Day",
+            "date": "2023-01-01",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Day off for New Year's Day",
+            "date": "2023-01-02",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Asarah B'Tevet",
+            "date": "2023-01-03",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Epiphany",
+            "date": "2023-01-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Orthodox Christmas Day",
+            "date": "2023-01-07",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2023-01-07",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2023-01-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Stephen Foster Memorial Day",
+            "date": "2023-01-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox New Year",
+            "date": "2023-01-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "World Religion Day",
+            "date": "2023-01-15",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Martin Luther King Jr. Day",
+            "date": "2023-01-16",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Chinese New Year",
+            "date": "2023-01-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Customs Day",
+            "date": "2023-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Leprosy Day",
+            "date": "2023-01-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Freedom Day",
+            "date": "2023-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Black History Month",
+            "date": "2023-02-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "World Wetlands Day",
+            "date": "2023-02-02",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Groundhog Day",
+            "date": "2023-02-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cancer Day",
+            "date": "2023-02-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tu Bishvat/Tu B'Shevat",
+            "date": "2023-02-06",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Day of the Sick",
+            "date": "2023-02-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Valentine's Day",
+            "date": "2023-02-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Maha Shivaratri",
+            "date": "2023-02-18",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Isra and Mi'raj",
+            "date": "2023-02-18",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Presidents' Day",
+            "date": "2023-02-20",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Shrove Tuesday/Mardi Gras",
+            "date": "2023-02-21",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Ash Wednesday",
+            "date": "2023-02-22",
+            "tag": "Christian"
+        },
+        {
+            "name": "Self-Injury Awareness Day",
+            "date": "2023-03-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. David's Day",
+            "date": "2023-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "First Day of Women's History Month",
+            "date": "2023-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Irish American Heritage Month",
+            "date": "2023-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Holi",
+            "date": "2023-03-07",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Purim",
+            "date": "2023-03-07",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Kidney Day",
+            "date": "2023-03-09",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. Patrick's Day",
+            "date": "2023-03-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Ramadan Starts",
+            "date": "2023-03-23",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Earth Hour",
+            "date": "2023-03-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Vietnam War Veterans Day",
+            "date": "2023-03-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Doctors' Day",
+            "date": "2023-03-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "April Fool's Day",
+            "date": "2023-04-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Palm Sunday",
+            "date": "2023-04-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover Eve",
+            "date": "2023-04-05",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Maundy Thursday",
+            "date": "2023-04-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Passover (first day)",
+            "date": "2023-04-06",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Good Friday",
+            "date": "2023-04-07",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Holy Saturday",
+            "date": "2023-04-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Easter Sunday",
+            "date": "2023-04-09",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Easter Monday",
+            "date": "2023-04-10",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Last Day of Passover",
+            "date": "2023-04-13",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Thomas Jefferson's Birthday",
+            "date": "2023-04-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox Good Friday",
+            "date": "2023-04-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Holy Saturday",
+            "date": "2023-04-15",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter",
+            "date": "2023-04-16",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Lailat al-Qadr",
+            "date": "2023-04-17",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Orthodox Easter Monday",
+            "date": "2023-04-17",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Yom HaShoah",
+            "date": "2023-04-18",
+            "tag": "Jewish commemoration"
+        },
+        {
+            "name": "International Day for Monuments and Sites",
+            "date": "2023-04-18",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tax Day",
+            "date": "2023-04-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "Eid al-Fitr (Tentative Date)",
+            "date": "2023-04-22",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Yom Ha'atzmaut",
+            "date": "2023-04-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Take our Daughters and Sons to Work Day",
+            "date": "2023-04-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Law Day",
+            "date": "2023-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loyalty Day",
+            "date": "2023-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Asian Pacific American Heritage Month",
+            "date": "2023-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Jewish American Heritage Month",
+            "date": "2023-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "National Day of Prayer",
+            "date": "2023-05-04",
+            "tag": "Observance"
+        },
+        {
+            "name": "Cinco de Mayo",
+            "date": "2023-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Ovarian Cancer Day",
+            "date": "2023-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Red Cross and Red Crescent Day",
+            "date": "2023-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Victory in Europe Day",
+            "date": "2023-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Lag BaOmer",
+            "date": "2023-05-09",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Nurses Day",
+            "date": "2023-05-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2023-05-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Peace Officers Memorial Day",
+            "date": "2023-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ascension Day",
+            "date": "2023-05-18",
+            "tag": "Christian"
+        },
+        {
+            "name": "National Defense Transportation Day",
+            "date": "2023-05-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+            "date": "2023-05-20",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Armed Forces Day",
+            "date": "2023-05-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Maritime Day",
+            "date": "2023-05-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "African Liberation Day",
+            "date": "2023-05-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Shavuot",
+            "date": "2023-05-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Pentecost",
+            "date": "2023-05-28",
+            "tag": "Christian"
+        },
+        {
+            "name": "Whit Monday",
+            "date": "2023-05-29",
+            "tag": "Christian"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2023-05-29",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "First Day of Pride Month",
+            "date": "2023-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Caribbean-American Heritage Month",
+            "date": "2023-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Trinity Sunday",
+            "date": "2023-06-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "D-Day",
+            "date": "2023-06-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Corpus Christi",
+            "date": "2023-06-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Loving Day",
+            "date": "2023-06-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Flag Day",
+            "date": "2023-06-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2023-06-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "Juneteenth",
+            "date": "2023-06-19",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Juneteenth Independence Day",
+            "date": "2023-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "American Eagle Day",
+            "date": "2023-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Eid al-Adha (Tentative Date)",
+            "date": "2023-06-29",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2023-07-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Muharram",
+            "date": "2023-07-19",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Parents' Day",
+            "date": "2023-07-23",
+            "tag": "Observance"
+        },
+        {
+            "name": "Tisha B'Av",
+            "date": "2023-07-27",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "National Korean War Veterans Armistice Day",
+            "date": "2023-07-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ashura (Tentative Date)",
+            "date": "2023-07-28",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Purple Heart Day",
+            "date": "2023-08-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Assumption of Mary",
+            "date": "2023-08-15",
+            "tag": "Christian"
+        },
+        {
+            "name": "National Aviation Day",
+            "date": "2023-08-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "Raksha Bandhan",
+            "date": "2023-08-30",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "International Overdose Awareness Day",
+            "date": "2023-08-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Sexual Health Day",
+            "date": "2023-09-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2023-09-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Carl Garner Federal Lands Cleanup Day",
+            "date": "2023-09-09",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Suicide Prevention Day",
+            "date": "2023-09-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Grandparents Day",
+            "date": "2023-09-10",
+            "tag": "Observance"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2023-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2023-09-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National POW/MIA Recognition Day",
+            "date": "2023-09-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Rosh Hashana",
+            "date": "2023-09-16",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Still's Disease Awareness Day",
+            "date": "2023-09-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day",
+            "date": "2023-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ganesh Chaturthi",
+            "date": "2023-09-18",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day observed",
+            "date": "2023-09-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Celebrate Bisexuality Day",
+            "date": "2023-09-23",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Public Lands Day",
+            "date": "2023-09-23",
+            "tag": "Observance"
+        },
+        {
+            "name": "Gold Star Mother's Day",
+            "date": "2023-09-24",
+            "tag": "Observance"
+        },
+        {
+            "name": "Yom Kippur",
+            "date": "2023-09-25",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "The Prophet's Birthday",
+            "date": "2023-09-27",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Rabies Day",
+            "date": "2023-09-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Heart Day",
+            "date": "2023-09-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Sukkot",
+            "date": "2023-09-30",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Vegetarian Day",
+            "date": "2023-10-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Child Health Day",
+            "date": "2023-10-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of St Francis of Assisi",
+            "date": "2023-10-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "Last Day of Sukkot",
+            "date": "2023-10-06",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Cerebral Palsy Day",
+            "date": "2023-10-06",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Shmini Atzeret",
+            "date": "2023-10-07",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Simchat Torah",
+            "date": "2023-10-08",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2023-10-09",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Sight Day",
+            "date": "2023-10-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2023-10-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Navratri",
+            "date": "2023-10-15",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "White Cane Safety Day",
+            "date": "2023-10-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Dussehra",
+            "date": "2023-10-23",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Stroke Day",
+            "date": "2023-10-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Halloween",
+            "date": "2023-10-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "All Saints' Day",
+            "date": "2023-11-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Vegan Day",
+            "date": "2023-11-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Native American Heritage Month",
+            "date": "2023-11-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "All Souls' Day",
+            "date": "2023-11-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Election Day",
+            "date": "2023-11-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Day off for Veterans Day",
+            "date": "2023-11-10",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2023-11-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2023-11-12",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "World Pneumonia Day",
+            "date": "2023-11-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Prematurity Day",
+            "date": "2023-11-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "International Men's Day",
+            "date": "2023-11-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2023-11-23",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2023-11-24",
+            "tag": "Observance"
+        },
+        {
+            "name": "Native American Heritage Day",
+            "date": "2023-11-24",
+            "tag": "Observance"
+        },
+        {
+            "name": "Cyber Monday",
+            "date": "2023-11-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Sunday of Advent",
+            "date": "2023-12-03",
+            "tag": "Christian"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2023-12-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of the Immaculate Conception",
+            "date": "2023-12-08",
+            "tag": "Christian"
+        },
+        {
+            "name": "Chanukah/Hanukkah (first day)",
+            "date": "2023-12-08",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Feast of Our Lady of Guadalupe",
+            "date": "2023-12-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Last Day of Chanukah",
+            "date": "2023-12-15",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Bill of Rights Day",
+            "date": "2023-12-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pan American Aviation Day",
+            "date": "2023-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Wright Brothers Day",
+            "date": "2023-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Asarah B'Tevet",
+            "date": "2023-12-22",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2023-12-24",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2023-12-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2023-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2023-12-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "New Year's Day",
+            "date": "2024-01-01",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Epiphany",
+            "date": "2024-01-06",
+            "tag": "Christian"
+        },
+        {
+            "name": "Orthodox Christmas Day",
+            "date": "2024-01-07",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2024-01-07",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Stephen Foster Memorial Day",
+            "date": "2024-01-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox New Year",
+            "date": "2024-01-14",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Martin Luther King Jr. Day",
+            "date": "2024-01-15",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Religion Day",
+            "date": "2024-01-21",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Tu Bishvat/Tu B'Shevat",
+            "date": "2024-01-25",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "International Customs Day",
+            "date": "2024-01-26",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Leprosy Day",
+            "date": "2024-01-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Freedom Day",
+            "date": "2024-02-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Black History Month",
+            "date": "2024-02-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "World Wetlands Day",
+            "date": "2024-02-02",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Groundhog Day",
+            "date": "2024-02-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Cancer Day",
+            "date": "2024-02-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Isra and Mi'raj",
+            "date": "2024-02-07",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Chinese New Year",
+            "date": "2024-02-10",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Day of the Sick",
+            "date": "2024-02-11",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Shrove Tuesday/Mardi Gras",
+            "date": "2024-02-13",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Ash Wednesday",
+            "date": "2024-02-14",
+            "tag": "Christian"
+        },
+        {
+            "name": "Valentine's Day",
+            "date": "2024-02-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Presidents' Day",
+            "date": "2024-02-19",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Leap Day",
+            "date": "2024-02-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Self-Injury Awareness Day",
+            "date": "2024-03-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. David's Day",
+            "date": "2024-03-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "First Day of Women's History Month",
+            "date": "2024-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Irish American Heritage Month",
+            "date": "2024-03-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "Maha Shivaratri",
+            "date": "2024-03-08",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Ramadan Starts",
+            "date": "2024-03-11",
+            "tag": "Muslim"
+        },
+        {
+            "name": "World Kidney Day",
+            "date": "2024-03-14",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "St. Patrick's Day",
+            "date": "2024-03-17",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Palm Sunday",
+            "date": "2024-03-24",
+            "tag": "Christian"
+        },
+        {
+            "name": "Purim",
+            "date": "2024-03-24",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Holi",
+            "date": "2024-03-25",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Maundy Thursday",
+            "date": "2024-03-28",
+            "tag": "Christian"
+        },
+        {
+            "name": "Good Friday",
+            "date": "2024-03-29",
+            "tag": "State holiday"
+        },
+        {
+            "name": "National Vietnam War Veterans Day",
+            "date": "2024-03-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Holy Saturday",
+            "date": "2024-03-30",
+            "tag": "Christian"
+        },
+        {
+            "name": "Earth Hour",
+            "date": "2024-03-30",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Doctors' Day",
+            "date": "2024-03-30",
+            "tag": "Observance"
+        },
+        {
+            "name": "Easter Sunday",
+            "date": "2024-03-31",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "April Fool's Day",
+            "date": "2024-04-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Easter Monday",
+            "date": "2024-04-01",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Lailat al-Qadr",
+            "date": "2024-04-05",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Eid al-Fitr (Tentative Date)",
+            "date": "2024-04-10",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Thomas Jefferson's Birthday",
+            "date": "2024-04-13",
+            "tag": "Observance"
+        },
+        {
+            "name": "Tax Day",
+            "date": "2024-04-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Day for Monuments and Sites",
+            "date": "2024-04-18",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Passover Eve",
+            "date": "2024-04-22",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Passover (first day)",
+            "date": "2024-04-23",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Take our Daughters and Sons to Work Day",
+            "date": "2024-04-25",
+            "tag": "Observance"
+        },
+        {
+            "name": "Last Day of Passover",
+            "date": "2024-04-30",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Law Day",
+            "date": "2024-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "Loyalty Day",
+            "date": "2024-05-01",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Asian Pacific American Heritage Month",
+            "date": "2024-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Jewish American Heritage Month",
+            "date": "2024-05-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "National Day of Prayer",
+            "date": "2024-05-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "Orthodox Good Friday",
+            "date": "2024-05-03",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Holy Saturday",
+            "date": "2024-05-04",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Orthodox Easter",
+            "date": "2024-05-05",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "Cinco de Mayo",
+            "date": "2024-05-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "Yom HaShoah",
+            "date": "2024-05-06",
+            "tag": "Jewish commemoration"
+        },
+        {
+            "name": "Orthodox Easter Monday",
+            "date": "2024-05-06",
+            "tag": "Orthodox"
+        },
+        {
+            "name": "World Ovarian Cancer Day",
+            "date": "2024-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Red Cross and Red Crescent Day",
+            "date": "2024-05-08",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Victory in Europe Day",
+            "date": "2024-05-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "Ascension Day",
+            "date": "2024-05-09",
+            "tag": "Christian"
+        },
+        {
+            "name": "International Nurses Day",
+            "date": "2024-05-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2024-05-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Yom Ha'atzmaut",
+            "date": "2024-05-14",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Peace Officers Memorial Day",
+            "date": "2024-05-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Defense Transportation Day",
+            "date": "2024-05-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Armed Forces Day",
+            "date": "2024-05-18",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pentecost",
+            "date": "2024-05-19",
+            "tag": "Christian"
+        },
+        {
+            "name": "Whit Monday",
+            "date": "2024-05-20",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+            "date": "2024-05-20",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Maritime Day",
+            "date": "2024-05-22",
+            "tag": "Observance"
+        },
+        {
+            "name": "African Liberation Day",
+            "date": "2024-05-25",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Trinity Sunday",
+            "date": "2024-05-26",
+            "tag": "Christian"
+        },
+        {
+            "name": "Lag BaOmer",
+            "date": "2024-05-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2024-05-27",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Corpus Christi",
+            "date": "2024-05-30",
+            "tag": "Christian"
+        },
+        {
+            "name": "First Day of Pride Month",
+            "date": "2024-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "First Day of Caribbean-American Heritage Month",
+            "date": "2024-06-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "D-Day",
+            "date": "2024-06-06",
+            "tag": "Observance"
+        },
+        {
+            "name": "Shavuot",
+            "date": "2024-06-12",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Loving Day",
+            "date": "2024-06-12",
+            "tag": "Observance"
+        },
+        {
+            "name": "Flag Day",
+            "date": "2024-06-14",
+            "tag": "Observance"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2024-06-16",
+            "tag": "Observance"
+        },
+        {
+            "name": "Eid al-Adha (Tentative Date)",
+            "date": "2024-06-17",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Juneteenth",
+            "date": "2024-06-19",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Juneteenth Independence Day",
+            "date": "2024-06-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "American Eagle Day",
+            "date": "2024-06-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2024-07-04",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Muharram",
+            "date": "2024-07-08",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Ashura (Tentative Date)",
+            "date": "2024-07-17",
+            "tag": "Muslim"
+        },
+        {
+            "name": "National Korean War Veterans Armistice Day",
+            "date": "2024-07-27",
+            "tag": "Observance"
+        },
+        {
+            "name": "Parents' Day",
+            "date": "2024-07-28",
+            "tag": "Observance"
+        },
+        {
+            "name": "Purple Heart Day",
+            "date": "2024-08-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Tisha B'Av",
+            "date": "2024-08-13",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Assumption of Mary",
+            "date": "2024-08-15",
+            "tag": "Christian"
+        },
+        {
+            "name": "Raksha Bandhan",
+            "date": "2024-08-19",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "National Aviation Day",
+            "date": "2024-08-19",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Overdose Awareness Day",
+            "date": "2024-08-31",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2024-09-02",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Sexual Health Day",
+            "date": "2024-09-04",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Ganesh Chaturthi",
+            "date": "2024-09-06",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Carl Garner Federal Lands Cleanup Day",
+            "date": "2024-09-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "National Grandparents Day",
+            "date": "2024-09-08",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Suicide Prevention Day",
+            "date": "2024-09-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2024-09-11",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Programmers' Day",
+            "date": "2024-09-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2024-09-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "The Prophet's Birthday",
+            "date": "2024-09-16",
+            "tag": "Muslim"
+        },
+        {
+            "name": "Still's Disease Awareness Day",
+            "date": "2024-09-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Constitution Day and Citizenship Day",
+            "date": "2024-09-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "National POW/MIA Recognition Day",
+            "date": "2024-09-20",
+            "tag": "Observance"
+        },
+        {
+            "name": "International Celebrate Bisexuality Day",
+            "date": "2024-09-23",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Rabies Day",
+            "date": "2024-09-28",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "National Public Lands Day",
+            "date": "2024-09-28",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Heart Day",
+            "date": "2024-09-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Gold Star Mother's Day",
+            "date": "2024-09-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Vegetarian Day",
+            "date": "2024-10-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Navratri",
+            "date": "2024-10-03",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Rosh Hashana",
+            "date": "2024-10-03",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Feast of St Francis of Assisi",
+            "date": "2024-10-04",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Cerebral Palsy Day",
+            "date": "2024-10-06",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Child Health Day",
+            "date": "2024-10-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "World Sight Day",
+            "date": "2024-10-10",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Dussehra",
+            "date": "2024-10-12",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Yom Kippur",
+            "date": "2024-10-12",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2024-10-14",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "White Cane Safety Day",
+            "date": "2024-10-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Day of Sukkot",
+            "date": "2024-10-17",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Last Day of Sukkot",
+            "date": "2024-10-23",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Shmini Atzeret",
+            "date": "2024-10-24",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "Simchat Torah",
+            "date": "2024-10-25",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "World Stroke Day",
+            "date": "2024-10-29",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Diwali/Deepavali",
+            "date": "2024-10-31",
+            "tag": "Hindu Holiday"
+        },
+        {
+            "name": "Halloween",
+            "date": "2024-10-31",
+            "tag": "Observance"
+        },
+        {
+            "name": "All Saints' Day",
+            "date": "2024-11-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "World Vegan Day",
+            "date": "2024-11-01",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "First Day of Native American Heritage Month",
+            "date": "2024-11-01",
+            "tag": "Annual monthly observance"
+        },
+        {
+            "name": "All Souls' Day",
+            "date": "2024-11-02",
+            "tag": "Christian"
+        },
+        {
+            "name": "Election Day (General Election)",
+            "date": "2024-11-05",
+            "tag": "Observance"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2024-11-11",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "World Pneumonia Day",
+            "date": "2024-11-12",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "World Prematurity Day",
+            "date": "2024-11-17",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "International Men's Day",
+            "date": "2024-11-19",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2024-11-28",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2024-11-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "Native American Heritage Day",
+            "date": "2024-11-29",
+            "tag": "Observance"
+        },
+        {
+            "name": "First Sunday of Advent",
+            "date": "2024-12-01",
+            "tag": "Christian"
+        },
+        {
+            "name": "Cyber Monday",
+            "date": "2024-12-02",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2024-12-07",
+            "tag": "Observance"
+        },
+        {
+            "name": "Feast of the Immaculate Conception",
+            "date": "2024-12-09",
+            "tag": "Christian"
+        },
+        {
+            "name": "Feast of Our Lady of Guadalupe",
+            "date": "2024-12-12",
+            "tag": "Christian"
+        },
+        {
+            "name": "Friday the 13th",
+            "date": "2024-12-13",
+            "tag": "Worldwide observance"
+        },
+        {
+            "name": "Bill of Rights Day",
+            "date": "2024-12-15",
+            "tag": "Observance"
+        },
+        {
+            "name": "Pan American Aviation Day",
+            "date": "2024-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Wright Brothers Day",
+            "date": "2024-12-17",
+            "tag": "Observance"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2024-12-24",
+            "tag": "Observance, Christian"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2024-12-25",
+            "tag": "State holiday"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2024-12-25",
+            "tag": "Federal Holiday"
+        },
+        {
+            "name": "Chanukah/Hanukkah (first day)",
+            "date": "2024-12-26",
+            "tag": "Jewish holiday"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2024-12-31",
+            "tag": "Observance"
+        }
+    ]
+}
