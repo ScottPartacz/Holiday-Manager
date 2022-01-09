@@ -2,6 +2,8 @@ startup:
 
     load the holiday.json file into the holiday list container
 
+    scrape the holidays from https://www.timeanddate.com/holidays/us/
+
 main menu:
 
     1. add holiday

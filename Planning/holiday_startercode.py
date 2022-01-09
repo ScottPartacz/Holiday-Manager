@@ -11,10 +11,7 @@ from dataclasses import dataclass
 # 2. You may need to add additional functions
 # 3. You may drop the init if you are using @dataclasses
 # --------------------------------------------
-class Holiday:
-      
-    def __init__(self,name, date):
-        #Your Code Here        
+class Holiday:     
     
     def __str__ (self):
         # String output
@@ -27,17 +24,11 @@ class Holiday:
 # Each method has pseudo-code instructions
 # --------------------------------------------
 class HolidayList:
-   def __init__(self):
-       self.innerHolidays = []
    
     def addHoliday(holidayObj):
         # Make sure holidayObj is an Holiday Object by checking the type
         # Use innerHolidays.append(holidayObj) to add holiday
         # print to the user that you added a holiday
-
-    def findHoliday(HolidayName, Date):
-        # Find Holiday in innerHolidays
-        # Return Holiday
 
     def removeHoliday(HolidayName, Date):
         # Find Holiday in innerHolidays by searching the name and date combination.
@@ -50,7 +41,13 @@ class HolidayList:
 
     def save_to_json(filelocation):
         # Write out json file to selected file.
-        
+    
+    def save_to_csv(filelocation):
+        # Write out csv file to selected file.
+    
+    def save(filelocation):
+        # pick which file format you want to save too.
+
     def scrapeHolidays():
         # Scrape Holidays from https://www.timeanddate.com/holidays/us/ 
         # Remember, 2 previous years, current year, and 2  years into the future. You can scrape multiple years by adding year to the timeanddate URL. For example https://www.timeanddate.com/holidays/us/2022
@@ -58,34 +55,40 @@ class HolidayList:
         # Add non-duplicates to innerHolidays
         # Handle any exceptions.     
 
+    def tag_search(self):
+        # search for all of the holidays with a certain tag
+        # print out all of the holidays with the tag
+
+    def date_search(self):
+        # search for all of the holidays with a certain date
+        # print out all of the holidays with the date
+
     def numHolidays():
         # Return the total number of holidays in innerHolidays
     
-    def filter_holidays_by_week(year, week_number):
-        # Use a Lambda function to filter by week number and save this as holidays, use the filter on innerHolidays
-        # Week number is part of the the Datetime object
-        # Cast filter results as list
-        # return your holidays
-
-    def displayHolidaysInWeek(holidayList):
-        # Use your filter_holidays_by_week to get list of holidays within a week as a parameter
-        # Output formated holidays in the week. 
-        # * Remember to use the holiday __str__ method.
-
     def getWeather(weekNum):
-        # Convert weekNum to range between two days
-        # Use Try / Except to catch problems
-        # Query API for weather in that week range
-        # Format weather information and return weather string.
+        # ask the user if they want to see the weather along with the holidays
+        # if no then just call getweek() with the current date
+        # if yes you still call getweek() to get this weeks holidays
+        # then sort the list to only upcoming holidays
+        # call the weather api to get the weather for today and 16 day forecast
+        # append the weather date to the list of holidays
+        # print the updated list
 
-    def viewCurrentWeek():
-        # Use the Datetime Module to look up current week and year
-        # Use your filter_holidays_by_week function to get the list of holidays 
-        # for the current week/year
-        # Use your displayHolidaysInWeek function to display the holidays in the week
-        # Ask user if they want to get the weather
-        # If yes, use your getWeather function and display results
-
+    def gettWeek():
+        # find the dates for the week requested
+        # filter the holiday list to those dates
+        # sort the list
+        # print out the sorted list
+        
+    def view_holidays(self):
+        # ask the user with year and week number they want to see
+        # call getweek() unless they want the current week then call geteweather()
+    
+    def exit_menu(self):
+        # ask the user if they want to exit
+        # make sure to tell them unsaved changes will be lost
+        # exit
 
 
 def main():
