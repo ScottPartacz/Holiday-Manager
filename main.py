@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import requests
 from dataclasses import dataclass
 
-
 @dataclass
 class Holiday:
     name: str
@@ -67,7 +66,6 @@ class HolidayList:
 
             time.sleep(1)
             name = input()
-
             
             temp = self.numHolidays()
 
@@ -106,7 +104,6 @@ class HolidayList:
             temp_dict = {"holidays": temp_list}
 
             json.dump(temp_dict,file,indent = 4, default = str)
-                
 
     def save_to_csv(self,filename):
         
@@ -143,7 +140,6 @@ class HolidayList:
                 else: 
                     print("invalid input\n")
                     continue
-
         else:
             print("Canceled:\nHoliday list file save canceled.")
 
