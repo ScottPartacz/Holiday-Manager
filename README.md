@@ -1,5 +1,7 @@
 # Holiday-Manager
 
+This program will allow you to manage holidays. (add/remove/view/save to a file(csv,json))
+
 # Data folder 
 
 Holds the starter holiday file and it is where all of the saved files will go.
