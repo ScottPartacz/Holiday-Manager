@@ -8,6 +8,7 @@ from itertools import groupby
 from bs4 import BeautifulSoup
 import requests
 from dataclasses import dataclass
+import config
 
 @dataclass
 class Holiday:
@@ -227,7 +228,7 @@ class HolidayList:
 
             headers = {
                 'x-rapidapi-host': "weatherbit-v1-mashape.p.rapidapi.com",
-                'x-rapidapi-key': "4878b23cd8mshb95dee6149232fbp1ec5b3jsn429553ab363c"
+                'x-rapidapi-key': config.api_key
                 }
 
             response = requests.request("GET", url, headers=headers, params=querystring)
